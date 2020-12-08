@@ -1,5 +1,6 @@
 ---
 layout: default
+background: https://static01.nyt.com/images/2018/12/23/obituaries/23MAY-OBIT2/22MAY2-facebookJumbo.jpg
 ---
 
 # Title
