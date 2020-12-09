@@ -10,7 +10,7 @@ I'm an armchair researcher, writer, and digital archeologist who also builds bus
 
 ## Past Employment & Some Contracts
 
-My employee days are over but here are some of the companies and organisations I've worked for or with. It should go without saying that they're not in any way accountable for anything I've done in the past or anything I will do in the future.
+My employee days are over but here are some of the companies and organisations I've worked for or with. Some other stuff is under NDA and isn't mentioned here. Sorry! It should go without saying that they're not in any way accountable for anything I've done in the past or anything I will do in the future.
 
 <table>
 <tbody>
