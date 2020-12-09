@@ -4,7 +4,7 @@ layout: default
 
 # Known Alleged Cyber Attacks Against Scaling Bitcoin
 
-A list of known *alleged* attacks and threats made against during the Bitcoin scaling "debates." NOTE: this list is not comprehensive; many attacks are not publicly reported.
+A list of known *alleged* attacks and threats made against during the Bitcoin scaling "debates."
 
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
