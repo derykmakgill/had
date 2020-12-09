@@ -11,9 +11,13 @@ permalink: about
 <blockquote>A transition from an author’s book to his conversation, is too often like an entrance into a large city, after a distant prospect. Remotely, we see nothing but spires of temples and turrets of palaces, and imagine it the residence of splendour, grandeur and magnificence; but when we have passed the gates, we find it perplexed with narrow passages, disgraced with despicable cottages, embarrassed with obstructions, and clouded with smoke.<br>
 <cite>Samuel Johnson; The Rambler, No. 14 (1750-05-05)</cite></blockquote>
 
+## Work
+
 I'm an armchair researcher, writer, and digital archeologist who also builds businesses and invests. 
 
 In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. I've spoken on economics, business, education, careers, and freedom at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
+
+## Education
 
 I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
 
