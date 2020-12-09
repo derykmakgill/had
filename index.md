@@ -27,3 +27,7 @@ I write short stories, often about technology and freedom.
 ## Research
 
 [Known Cyber Attacks Against Scaling Bitcoin](/)
+
+## Projects
+
+<img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt="">[Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May.
