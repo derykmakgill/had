@@ -45,6 +45,9 @@ My employee days are over but here are some of the companies and organisations I
 
 ## Education
 
+<blockquote>At a time when the respectable bourgeois youngsters of my generation were college freshmen, oppressed by simian sophomores and affronted with balderdash daily and hourly by chalky pedagogues, I was at large in a wicked seaport of half a million people, with a front seat at every public show, as free of the night as of day, and getting earfuls of instruction in a hundred giddy arcana, none of them taught in schools.... [But] if I neglected the humanities, I was meanwhile laying in all the worldly wisdom of a police lieutenant, a bartender, a shyster lawyer, or a midwife.<br>
+<cite>H.L. Mencken</cite></blockquote>
+
 I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
 
 ## Speaking
