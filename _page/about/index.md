@@ -25,6 +25,8 @@ permalink: about
 
 ## Monthly Donations
 
+Here are some organisations and projects to which I send a small amount of money every month. I don't generally believe in the donor-funded model, but I think they're doing important work.
+
 | Project                                                      | Amount ($/month) |
 | ------------------------------------------------------------ | ---------------- |
 | [Jekyll](https://opencollective.com/jekyll)                  | $5               |
