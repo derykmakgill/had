@@ -4,8 +4,6 @@ layout: default
 
 # About
 
-## Personal 
-
 ### Work
 
 I am a writer and researcher who also invests and builds businesses on the side. I'm most interested in Bitcoin and online privacy, but I spend a lot of time working on projects and writing in archiving previously lost print and digital material, political freedom, classical studies, credentialism, science-fiction, and maybe too many things to enumerate here. 
