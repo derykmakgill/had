@@ -4,7 +4,7 @@ background: https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2
 permalink: about
 ---
 
-# About Deryk Makgill
+# About 
 
 I'm an armchair researcher, writer, and digital archeologist who also builds businesses and invests. In the past, I've worked in private intelligence and I've been marketing director, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
 
