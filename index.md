@@ -16,8 +16,8 @@ background: https://neustadt.fr/img/animspace.gif
       <td><a href="https://voiceandexit.com"><img src="https://i.vimeocdn.com/portrait/7498671_640x640" alt="Voice & Exit" style="width:25px;height:25px">Voice & Exit</a></td>
     </tr>
     <tr>
-      <td><a href="https://media-exp1.licdn.com/dms/image/C510BAQG5L-sPAx5iRQ/company-logo_200_200/0/1519868680326?e=2159024400&v=beta&t=G3IqorM02Wgga6f_q5W8V5R1fBPzNy0AGSKYSieQyIM" alt="TOS" style="width:25px;height:25px">The Objective Standard</a></td>
-      <td><a href="https://sc247.s3.amazonaws.com/images/company/foundation_for_economic_education_logo_175x175.jpg" alt="FEE" style="width:25px;height:25px">The Foundation for Economic Education</a></td>
+      <td><a href="https:/theobjectivestandard.com"><img src="https://media-exp1.licdn.com/dms/image/C510BAQG5L-sPAx5iRQ/company-logo_200_200/0/1519868680326?e=2159024400&v=beta&t=G3IqorM02Wgga6f_q5W8V5R1fBPzNy0AGSKYSieQyIM" alt="TOS" style="width:25px;height:25px">The Objective Standard</a></td>
+      <td><a href="https://fee.org"><img src="https://sc247.s3.amazonaws.com/images/company/foundation_for_economic_education_logo_175x175.jpg" alt="FEE" style="width:25px;height:25px">The Foundation for Economic Education</a></td>
     </tr>
   </tbody>
 </table>
