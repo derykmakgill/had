@@ -21,3 +21,11 @@ background: https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2
     </tr>
   </tbody>
 </table>
+
+## Monthly Donations
+
+| Project                                                      | Amount ($/month) |
+| ------------------------------------------------------------ | ---------------- |
+| [Jekyll](https://opencollective.com/jekyll)                  | $5               |
+| [Roots of Progress](https://www.patreon.com/rootsofprogress) | $2               |
+| [AIER](https://www.aier.org/give-to-aier/)                   | $5               |
