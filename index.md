@@ -20,6 +20,8 @@ This site is under construction. In the meantime, you can read a few of my newes
 
 ## Fiction
 
+I write short stories, often about technology and freedom.
+
 [Tax Refund](/): A Robinhood tale for the 21st century.
 
 ## Research
