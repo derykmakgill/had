@@ -4,6 +4,10 @@ background: https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2
 permalink: about
 ---
 
+## The story of @wakgill
+
+It's rather mundane. The @makgill username was too often taken, as were similar alternatives, but a 'w' is an inverted 'm,' thus @wakgill was born.
+
 ## Past Employment & Some Contracts
 
 <table>
