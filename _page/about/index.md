@@ -8,70 +8,74 @@ permalink: about
 
 <figure>
 <img src="/had/assets/img/makgill-censored.jpg" alt="I'm the guy in the middle...">
- <figcaption>I'm the guy in the middle...</figcaption>
+ 
 </figure>
 
+### Work
+
+I am a writer and researcher who also invests and builds businesses on the side. I'm most interested in Bitcoin and online privacy, but I spend a lot of time working on projects and writing in archiving previously lost print and digital material, political freedom, classical studies, credentialism, science-fiction, and maybe too many things to enumerate here. 
+
+I have worked for, consulted for, or have otherwise been officially associated with: *[Bitcoin.com](https://bitcoin.com)* (2020), *[The Paideia Institute](https://paideiainstitute)* (2020), *[Praxis](https://discoverpraxis.com)* (2014-2018), *[The Objective Standard](https://theobjectivestandard.com)* (2018), *[The Foundation for Economic Education](https://fee.org)* (2016-2018), *[Voice & Exit](https://voicandexit.com)* (2016) and quite a few more private clients. I tend to wear a lot of hats and work has ranged from private intelligence and research, marketing, public relations, and sales to graphic and web design, photography, and videography to economic advising.
+
+### Education
+
+I studied Latin and Ancient Greek at the University of Michigan for two years and was both foolhardy and farsighted enough to drop out after two years to pursue my own plan for my education. I maintain lists of my [physical library,](/library) my [reading,](/read) [links,](/links) and [courses](/courses) I've completed as a record for myself and to hopefully help someone else who might be interested in doing things a bit differently. 
+
+### Contact
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+L4v1JQSDigejQQ==
+=joEZ
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 
-<blockquote>A transition from an author’s book to his conversation, is too often like an entrance into a large city, after a distant prospect. Remotely, we see nothing but spires of temples and turrets of palaces, and imagine it the residence of splendour, grandeur and magnificence; but when we have passed the gates, we find it perplexed with narrow passages, disgraced with despicable cottages, embarrassed with obstructions, and clouded with smoke.<br>
-<cite>Samuel Johnson; The Rambler, No. 14 (1750-05-05)</cite></blockquote>
 
-## An Attempt At Autobiography
-
-~~My mother was a 15-year-old French prostitute named Chloé with webbed feet. My father would womanize; he would drink; he would make outrageous claims like he invented the question mark. Sometimes, he would accuse chestnuts of being lazy, the sort of general malaise that only the genius possess and the insane lament.~~
-
-This section is an attempt to cover what you need to know about me. As is typical for web bios these days, it would include banal information like where I grew up or currently live, all the times some journalist has mentioned me in a piece no matter how irrelevant, and other digital clutter which nobody cares to actually read.
-
-## Interests
-
-I'm most interested in Bitcoin, privacy, credentialism, and "lost" fiction, but this site is home to many things and topics to great to enumerate.
-
-## Work
-
-I'm an armchair researcher, writer, and digital archeologist who also builds businesses and invests. 
-
-In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, videographer, photographer and operations director for some startups and companies. 
-
-A lot of my work, or work I did with colleagues, has been referenced in places like the Wall Street Journal, FOX, MSNBC, Time Magazine, Bitcoin News, The Next Web, CoinSpice, but these are not things I care about and you shouldn't listen to the news so much nor trust that media hits necessarily mean anything. Some of the smartest people I know do all their work out of the public eye.
-
-## Past Employment & Some Contracts
-
-My employee days are over but here are some of the companies and organisations I've worked for or with. Some other stuff is under NDA and isn't mentioned here. Sorry! It should go without saying that they're not in any way accountable for anything I've done in the past or anything I will do in the future.
-
-<table>
-<tbody>
-<tr>
-<td><a href="https://bitcoin.com"><img src="https://www.bitcoin.com/images/uploads/facebook.png" alt="Bitcoin.com" style="width:25px;height:25px">Bitcoin.com</a></td>
-<td><a href="https://discoverpraxis.com"><img src="https://www.libertyatthemovies.com/wp-content/uploads/2016/12/13921204_1162916813731584_3427010247209842948_n.png" alt="Praxis" style="width:25px;height:25px">Praxis</a></td>
-</tr>
-<tr>
-<td><a href="https://colliers.com"><img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/madxs4pr3wjkwmw9shvl" alt="Voice &amp; Exit" style="width:25px;height:25px">Colliers International</a></td>
-<td><a href="https://voiceandexit.com"><img src="https://i.vimeocdn.com/portrait/7498671_640x640" alt="Voice &amp; Exit" style="width:25px;height:25px">Voice &amp; Exit</a></td>
-</tr>
-<tr>
- <td><a href="https:/theobjectivestandard.com"><img src="https://media-exp1.licdn.com/dms/image/C510BAQG5L-sPAx5iRQ/company-logo_200_200/0/1519868680326?e=2159024400&amp;v=beta&amp;t=G3IqorM02Wgga6f_q5W8V5R1fBPzNy0AGSKYSieQyIM" alt="TOS" style="width:25px;height:25px">The Objective Standard</a></td>
-      <td><a href="https://fee.org"><img src="https://sc247.s3.amazonaws.com/images/company/foundation_for_economic_education_logo_175x175.jpg" alt="FEE" style="width:25px;height:25px">The Foundation for Economic Education</a></td>
-    </tr>
-  </tbody>
-</table>
-
-## Education
-
-<blockquote>At a time when the respectable bourgeois youngsters of my generation were college freshmen, oppressed by simian sophomores and affronted with balderdash daily and hourly by chalky pedagogues, I was at large in a wicked seaport of half a million people, with a front seat at every public show, as free of the night as of day, and getting earfuls of instruction in a hundred giddy arcana, none of them taught in schools.... [But] if I neglected the humanities, I was meanwhile laying in all the worldly wisdom of a police lieutenant, a bartender, a shyster lawyer, or a midwife.<br>
-<cite>H.L. Mencken</cite></blockquote>
-
-I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
-
-## Speaking
-
-I've spoken on *how to be free in an unfree world* (Austrian economics, business, education, careers, and freedom) at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
-
-## Monthly Donations
-
-Here are some organisations and projects to which I send a small amount of money every month. I don't generally believe in the donor-funded model, but I think they're doing important work.
-
-| Project                                                      | Amount ($/month) |
-| ------------------------------------------------------------ | ---------------- |
-| [Jekyll](https://opencollective.com/jekyll)                  | $5               |
-| [Roots of Progress](https://www.patreon.com/rootsofprogress) | $2               |
-| [AIER](https://www.aier.org/give-to-aier/)                   | $5               |
