@@ -20,11 +20,7 @@ permalink: about
 
 I'm an armchair researcher, writer, and digital archeologist who also builds businesses and invests. 
 
-In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. I've spoken on economics, business, education, careers, and freedom at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
-
-## Education
-
-I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
+In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. 
 
 ## Past Employment & Some Contracts
 
@@ -46,6 +42,14 @@ My employee days are over but here are some of the companies and organisations I
     </tr>
   </tbody>
 </table>
+
+## Education
+
+I went to the University of Michigan for two semesters where I studied Latin and Ancient Greek before I dropped out.
+
+## Speaking
+
+I've spoken on economics, business, education, careers, and freedom at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
 
 ## Monthly Donations
 
