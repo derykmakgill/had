@@ -16,7 +16,7 @@ I have worked for, consulted for, or have otherwise been officially associated w
 
 ## Education
 
-I studied Latin and Ancient Greek at the University of Michigan for two years and was both foolhardy and farsighted enough to drop out after two years to pursue my own plan for my education. I maintain lists of my personal physical library, my reading, links, and courses I've completed as a record for myself and to hopefully help someone else who might be interested in doing things a bit differently. 
+I studied Latin and Ancient Greek at the University of Michigan for two years and was both foolhardy and farsighted enough to drop out after two years to pursue my own plan for my education. I maintain lists of my [physical library,](/library) my [reading,](/read) [links,](/links) and [courses](/courses) I've completed as a record for myself and to hopefully help someone else who might be interested in doing things a bit differently. 
 
 ### Contact
 
