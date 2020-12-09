@@ -10,6 +10,8 @@ It's rather mundane. The @makgill username was too often taken, as were similar 
 
 ## Past Employment & Some Contracts
 
+My employee days are over but here are some of the companies and organisations I've worked for or with. It should go without saying that they're not in any way accountable for anything I've done in the past or anything I will do in the future.
+
 <table>
 <tbody>
 <tr>
