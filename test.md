@@ -4,8 +4,6 @@ layout: default
 
 # About
 
-<p>This page is about me; for infor­ma­tion about Gwern.net, see <a href="/About" id="gwern-about" class="docMetadata" data-popup-title="About This Website" data-popup-title-html="About This Web­site" data-popup-author="Gwern Bran­wen" data-popup-date="2010-10-01" data-popup-abstract="<p>Meta page describ­ing gwern.net site ideals of sta­ble long-term essays which improve over time; tech­ni­cal deci­sions using Mark­down and sta­tic host­ing; idea sources and writ­ing method­ol­o­gy; meta­data defi­n­i­tions; site sta­tis­tics; copy­right license.</p>">About This Web­site</a>.</p>
-
 ## Personal 
 
 ### Work
@@ -14,7 +12,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 
 I have worked for, consulted for, or have otherwise been officially associated with: *[Bitcoin.com](https://bitcoin.com)* (2020), *[The Paideia Institute](https://paideiainstitute)* (2020), *[Praxis](https://discoverpraxis.com)* (2014-2018), *[The Objective Standard](https://theobjectivestandard.com)* (2018), *[The Foundation for Economic Education](https://fee.org)* (2016-2018), *[Voice & Exit](https://voicandexit.com)* (2016) and quite a few more private clients. I tend to wear a lot of hats and work has ranged from private intelligence and research, marketing, public relations, and sales to graphic and web design, photography, and videography to economic advising.
 
-## Education
+### Education
 
 I studied Latin and Ancient Greek at the University of Michigan for two years and was both foolhardy and farsighted enough to drop out after two years to pursue my own plan for my education. I maintain lists of my [physical library,](/library) my [reading,](/read) [links,](/links) and [courses](/courses) I've completed as a record for myself and to hopefully help someone else who might be interested in doing things a bit differently. 
 
