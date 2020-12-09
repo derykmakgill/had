@@ -30,4 +30,4 @@ I write short stories, often about technology and freedom.
 
 ## Projects
 
-<img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt="">[Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May.
+<img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt="">[Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May. Material comes mostly from the [archives](http://mailing-list-archive.cryptoanarchy.wiki/) of the Cypherpunk Mailing List.
