@@ -21,6 +21,3 @@ background: https://neustadt.fr/img/animspace.gif
     </tr>
   </tbody>
 </table>
-
-
-<a href="https://thecryptofeed.net/articles/"><img src="/thecryptofeed.jpg" alt="click for my articles on the crypto feed" style="width:25px;height:25px">the crypto feed</a>
