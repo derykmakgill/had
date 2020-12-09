@@ -2,70 +2,43 @@
 layout: default
 ---
 
-# About
+# Known Cyber Attacks Against Scaling Bitcoin
 
-### Work
+A list of known attacks and threats made against during the Bitcoin scaling "debates." NOTE: this list is not comprehensive; many attacks are not publicly reported.
 
-I am a writer and researcher who also invests and builds businesses on the side. I'm most interested in Bitcoin and online privacy, but I spend a lot of time working on projects and writing in archiving previously lost print and digital material, political freedom, classical studies, credentialism, science-fiction, and maybe too many things to enumerate here. 
+| Date              | Victim                                    | Description    | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------- | ----------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 26 May 2014       | Andreas Antonopolous                      | Death theat    | [](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/)[Andreas Antonopoulos Threatened With Murder Over Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/)                                                                                   |
+| 5 October 2014    | SatoshiDice, Counterparty                 | Blacklisting   | [](https://www.coindesk.com/blacklist-debate-ok-meddle-bitcoins-code)[The Blacklist Debate: When is it OK to Meddle with Bitcoin’s Code?](https://www.coindesk.com/blacklist-debate-ok-meddle-bitcoins-code)                                                                                                                                                                                                       |
+| 15 June 2015      | Bitcoin XT                                | Social Attack  | [Bitcoin.org Position On Hard Forks](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894)                                                                                                                                                                                                                                                                                                                      |
+| 16 August 2015    | Bitcoin XT                                | Censorship     | [It's time for a break: About the recent mess & temporary new rules](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/?utm_source=share&utm_medium=web2x&context=3)                                                                                                                                                                                                     |
+| 17 August 2015    | Bitcoin XT                                | Spoofing       | [Not Bitcoin XT](https://github.com/xtbit/notbitcoinxt)                                                                                                                                                                                                                                                                                                                                                            |
+| 25 August 2015    | SlushPool                                 | DDoS/Extortion | [BIP101 VOTING DISABLED BECAUSE OF DDOS ATTACK](https://slushpool.com/news/update-bip101-voting-disabled-because-of-ddos-attack/)                                                                                                                                                                                                                                                                                  |
+| 29 August 2015    | Bitcoin XT                                | DDoS           | [UDP flood DDoS attacks against XT nodes](https://www.reddit.com/r/bitcoinxt/comments/3iumsr/udp_flood_ddos_attacks_against_xt_nodes/?utm_source=share&utm_medium=web2x&context=3)                                                                                                                                                                                                                                 |
+| 01 September 2015 | Bitcoin XT                                | DDoS           | [](https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/)[The DDoSes are still real](https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/)                                                                                                                                                                                                                        |
+| 03 September 2015 | chunkhost.com, Bitcoin XT          | DDoS           | [](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/?utm_source=share&utm_medium=web2x&context=3)[Bitcoin XT nodes being DDOSed?](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/?utm_source=share&utm_medium=web2x&context=3)                                                                                                                       |
+| 08 September 2015 | SlushPool                                 | DDoS           | [](https://www.reddit.com/r/bitcoinxt/comments/3k4fkf/looks_like_ddos_attack_towards_slush_pool_started/?utm_source=share&utm_medium=web2x&context=3)[Looks like DDoS attack towards Slush pool started again? Right after Slush resumes BIP 101 block mining.](https://www.reddit.com/r/bitcoinxt/comments/3k4fkf/looks_like_ddos_attack_towards_slush_pool_started/?utm_source=share&utm_medium=web2x&context=3) |
+| 27 December 2015  | Coinbase                                  | DDoS           | [](https://www.techworm.net/2015/12/hacker-ddos-coinbase-website-down.html)[Coinbase website DDoSed by hacker group](https://www.techworm.net/2015/12/hacker-ddos-coinbase-website-down.html)                                                                                                                                                                                                                      |
+| 16 January 2016   | Coinbase                                  | DDoS           | [](https://bitcointalk.org/index.php?topic=1329635.0)[Why the ddos attack on Coinbase?](https://bitcointalk.org/index.php?topic=1329635.0)                                                                                                                                                                                                                                                                         |
+| 27 February 2016  | Bitcoin Classic                           | DDoS           | [](https://www.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0ha9j4/)[DDoS started again. Have a nice day, guys :)](https://www.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0ha9j4/)                                                                                                                                             |
+| 28 February 2016  | Bitcoin Classic                           | DDoS           | [Bitcoin Classic Nodes Under Heavy DDoS](https://web.archive.org/web/20160302070655/http://www.blockcy.com/bitcoin-classic-nodes-under-ddos-attack) Attack                                                                                                                                                                                                                                                                                                                                                                      |
+| 01 March 2016     | Bitcoin.com, Bitcoin Classic              | DDoS           | [](https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/)[Bitcoin Classic Targeted by DDoS Attacks](https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/)                                                                                                                                                                                                                               |
+| 02 March 2016     | F2Pool                                    | DDoS           | [](https://cointelegraph.com/news/f2pool-suffers-from-series-of-ddos-attacks)[F2Pool Suffers from Series of DDoS Attacks](https://cointelegraph.com/news/f2pool-suffers-from-series-of-ddos-attacks)                                                                                                                                                                                                               |
+| 16 March 2016     | Misc                                      | DDoS           | [](https://removeddit.com/r/Bitcoin/comments/4aqi1s/these_42_bitcoin_projects_were_shutdown_by_an/)[These 42 Bitcoin projects were shutdown by an ongoing DDoS attack](https://removeddit.com/r/Bitcoin/comments/4aqi1s/these_42_bitcoin_projects_were_shutdown_by_an/)                                                                                                                                            |
+| 2 May 2016        | Gavin Andresen                            | Theft          | [](https://news.ycombinator.com/item?id=11610342)[Gavin Andresen's commit access to Bitcoin revoked](https://news.ycombinator.com/item?id=11610342)                                                                                                                                                                                                                                                                |
+| 14 March 2017     | Bitcoin Unlimited                         | Threat         | [](https://web.archive.org/web/20180612200014/https://www.ccn.com/bitcoin-core-supporter-threatens-zero-day-exploit-bitcoin-unlimited-hardforks/)[Bitcoin Core Supporter Threatens Zero Day Exploit if Bitcoin Unlimited Hardforks](https://web.archive.org/web/20180612200014/https://www.ccn.com/bitcoin-core-supporter-threatens-zero-day-exploit-bitcoin-unlimited-hardforks/)                                 |
+| 15 March 2017     | Bitcoin Unlimited                         | Exploit        | [What Caused the Bitcoin Unlimited Node Crash?](https://web.archive.org/web/20190624061245/https://www.ccn.com/caused-bitcoin-unlimited-node-crash/)                                                                                                                                                                                                                                                               |
+| 18 March 2017     | Bitcoin.com                               | DDoS           | [Major DDoS Attacks Hit Bitcoin.com](https://news.bitcoin.com/ddos-attacks-bitcoin-com-uncensored-information/)                                                                                                                                                                                                                                                                                                                                                                                 |
+| 11 September 2017 | Segwit 2X                                 | Legal Action   | [](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm)[File No. SR-NYSEArca-2017-06](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm)                                                                                                                                                                                                                           |
+| 6 October 2017    | Coinbase, Segwit 2X                       | Legal Threat   | [Is @coinbase breaking the terms of the #BitLicense Endorsing 2x fork definitely raises safety concerns.<br>@NYDFS](https://twitter.com/Excellion/status/916491407270879232)                                                                                                                                                                                                                                       |
+| 11 October 2017   | Segwit 2X                                 | Social Attack  | [Segwit Safety Alert](https://web.archive.org/web/20171029022533/https://bitcoin.org/en/)                                                                                                                                                                                                                                                                                                                          |
+| 20 November 2017  | Bitcoin.com                               | Social Attack  | [](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)[The bitcoin.com wallet app is under attack by /r/bitcoin. Please help to counter it.](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)                                                                                                                                   |
+| 06 December 2018  | Bitcoin.com, Bitmain, Kraken, Bitcoin ABC | Legal Action   | [UnitedCorp Launches Suit against Bitmain, Bitcoin.com, Roger Ver, Kraken Bitcoin Exchange and others Alleging Hijacking of the Bitcoin Cash Network](https://www.marketwatch.com/story/unitedcorp-files-suit-against-bitmain-roger-ver-kraken-and-others-over-alleged-manipulation-during-bitcoin-cash-hard-fork-2018-12-06)                                                                                                                                                                                                                                                                |
 
-I have worked for, consulted for, or have otherwise been officially associated with: *[Bitcoin.com](https://bitcoin.com)* (2020), *[The Paideia Institute](https://paideiainstitute)* (2020), *[Praxis](https://discoverpraxis.com)* (2014-2018), *[The Objective Standard](https://theobjectivestandard.com)* (2018), *[The Foundation for Economic Education](https://fee.org)* (2016-2018), *[Voice & Exit](https://voicandexit.com)* (2016) and quite a few more private clients. I tend to wear a lot of hats and work has ranged from private intelligence and research, marketing, public relations, and sales to graphic and web design, photography, and videography to economic advising.
+## Citation
 
-### Education
-
-I studied Latin and Ancient Greek at the University of Michigan for two years and was both foolhardy and farsighted enough to drop out after two years to pursue my own plan for my education. I maintain lists of my [physical library,](/library) my [reading,](/read) [links,](/links) and [courses](/courses) I've completed as a record for myself and to hopefully help someone else who might be interested in doing things a bit differently. 
-
-### Contact
+In academic work, please cite this resource as:
 
 ```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-L4v1JQSDigejQQ==
-=joEZ
------END PGP PUBLIC KEY BLOCK-----
+Makgill, Deryk, “Known Cyber Attacks Against Scaling Bitcoin.” https://makgill.ch/bitcoin-scaling-attacks. Retrieved [access date].
 ```
