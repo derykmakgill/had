@@ -28,7 +28,7 @@ I'm most interested in Bitcoin, privacy, credentialism, and "lost" fiction, but 
 
 I'm an armchair researcher, writer, and digital archeologist who also builds businesses and invests. 
 
-In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. 
+In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, videographer, photographer and operations director for some startups and companies. 
 
 A lot of my work, or work I did with colleagues, has been referenced in places like the Wall Street Journal, FOX, MSNBC, Time Magazine, Bitcoin News, The Next Web, CoinSpice, but these are not things I care about and you shouldn't listen to the news so much nor trust that media hits necessarily mean anything. Some of the smartest people I know do all their work out of the public eye.
 
