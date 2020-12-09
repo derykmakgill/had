@@ -20,6 +20,8 @@ permalink: about
 
 ~~My mother was a 15-year-old French prostitute named Chloé with webbed feet. My father would womanize; he would drink; he would make outrageous claims like he invented the question mark. Sometimes, he would accuse chestnuts of being lazy, the sort of general malaise that only the genius possess and the insane lament.~~
 
+This section is an attempt to cover what you need to know about me. As is typical for web bios these days, it would include banal information like where I grew up or currently live, all the times some journalist has mentioned me in a piece no matter how irrelevant, and other digital clutter which nobody cares to actually read.
+
 ## Interests
 
 I'm most interested in Bitcoin, privacy, credentialism, and "lost" fiction, but this site is home to many things and topics to great to enumerate.
