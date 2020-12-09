@@ -6,9 +6,7 @@ permalink: about
 
 # About Deryk Makgill
 
-## The story of @wakgill
-
-It's rather mundane. The @makgill username was too often taken, as were similar alternatives, but a 'w' is an inverted 'm,' thus @wakgill was born.
+I'm an indepedent, armchair researcher and writer who also builds businesses and invests. In the past, I've been a marketing director, web and graphic designer, salesman, software consultant, and operations director. 
 
 ## Past Employment & Some Contracts
 
