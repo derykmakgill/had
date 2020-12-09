@@ -30,6 +30,8 @@ I'm an armchair researcher, writer, and digital archeologist who also builds bus
 
 In the past, I've worked in private intelligence and I've been marketing director, economics advsior, web and graphic designer, salesman, software consultant, campaign manager, and operations director for some startups and companies. 
 
+A lot of my work, or work I did with colleagues, has been referenced in places like the Wall Street Journal, FOX, MSNBC, Time Magazine, Bitcoin News, The Next Web, CoinSpice, but these are not things I care about and you shouldn't listen to the news so much nor trust that media hits necessarily mean anything. Some of the smartest people I know do all their work out of the public eye.
+
 ## Past Employment & Some Contracts
 
 My employee days are over but here are some of the companies and organisations I've worked for or with. Some other stuff is under NDA and isn't mentioned here. Sorry! It should go without saying that they're not in any way accountable for anything I've done in the past or anything I will do in the future.
