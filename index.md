@@ -10,6 +10,7 @@ Let's try adding some text...
 
 <table>
 <tbody>
+ <tr style="display:none;"><th width="65%">Name</th><th width="35%">Author</th></tr>
 <tr>
 <td><a href="https://bitcoin.com"><img src="https://www.bitcoin.com/images/uploads/facebook.png" alt="Bitcoin.com" style="width:25px;height:25px">Bitcoin.com</a></td>
 <td><a href="https://discoverpraxis.com"><img src="https://www.libertyatthemovies.com/wp-content/uploads/2016/12/13921204_1162916813731584_3427010247209842948_n.png" alt="Praxis" style="width:25px;height:25px">Praxis</a></td>
