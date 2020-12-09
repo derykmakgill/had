@@ -52,7 +52,7 @@ I went to the University of Michigan for two semesters where I studied Latin and
 
 ## Speaking
 
-I've spoken on economics, business, education, careers, and freedom at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
+I've spoken on *how to be free in an unfree world* (Austrian economics, business, education, careers, and freedom) at places like Charles University and the Fakultet političkih nauka u Sarajevu, though I don't speak at events anymore.
 
 ## Monthly Donations
 
