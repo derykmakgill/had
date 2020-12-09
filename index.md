@@ -5,8 +5,6 @@ background: https://neustadt.fr/img/animspace.gif
 
 ## Past Employment & Some Contracts
 
-Let's try adding some text...
-
 <table>
 <tbody>
 <tr>
