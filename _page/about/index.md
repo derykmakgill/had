@@ -23,7 +23,7 @@ I studied Latin and Ancient Greek at the University of Michigan for two years an
 
 ### Contact
 
-You can email me at deryk@makgill.ch.
+You can email me at deryk@makgill.ch. Please don't send me DMs on unsocial media or chat apps. 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
