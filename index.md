@@ -28,6 +28,8 @@ I write short stories, often about technology and freedom.
 
 <img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Known *Alleged* Cyber Attacks Against Scaling Bitcoin](/)
 
+<img src="https://thebitcoin.pub/uploads/default/original/2X/0/003de396bae5f4267b5fa7b2e93d513f0d0c6c01.gif" height="14" alt=""> [*Alleged* Physical and Legal Threats Against Scaling Bitcoin](/)
+
 ### Projects
 
 <img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt=""> [Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May. Material comes mostly from the [archives](http://mailing-list-archive.cryptoanarchy.wiki/) of the Cypherpunk Mailing List.
