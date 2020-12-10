@@ -30,6 +30,8 @@ I write short stories, often about technology and freedom.
 
 <img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [Known *Alleged* Legal Attacks and Threats Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical)
 
+<img src="https://i.pinimg.com/originals/2e/7c/ab/2e7cabb23b1fc30408b7292c1016be24.gif" height="14" alt=""> [Known *Alleged* Forum Censorship About Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical): with an appendix covering condemnations, denials and admissions.
+
 ### Projects
 
 <img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt=""> [Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May. Material comes mostly from the [archives](http://mailing-list-archive.cryptoanarchy.wiki/) of the Cypherpunk Mailing List.
