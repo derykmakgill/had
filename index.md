@@ -26,11 +26,11 @@ I write short stories, often about technology and freedom.
 
 ### Research
 
-<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Known *Alleged* Cyber Attacks Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/attacks)
+<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [*Alleged* Cyber Attacks Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/attacks)
 
-<img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [Known *Alleged* Legal Attacks and Threats Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical)
+<img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [*Alleged* Legal Attacks and Threats Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical)
 
-<img src="https://i.pinimg.com/originals/2e/7c/ab/2e7cabb23b1fc30408b7292c1016be24.gif" height="14" alt=""> [Known *Alleged* Forum Censorship About Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical): with an appendix covering condemnations, denials and admissions.
+<img src="https://i.pinimg.com/originals/2e/7c/ab/2e7cabb23b1fc30408b7292c1016be24.gif" height="14" alt=""> [*Alleged* Forum Censorship About Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical): with an appendix covering condemnations, denials and admissions.
 
 ### Projects
 
