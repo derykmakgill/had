@@ -41,6 +41,8 @@ A list of known *alleged* attacks and threats made against during the Bitcoin sc
 | 17 November 2017  | Antpool                          | DDoS         | [Antpool has been sufferring large DDoS attack today which may cause our website outline.](https://twitter.com/AntPoolofficial/status/931464481326088192?s=20)                                                                                                                                                                                                                                                     |
 | 20 November 2017  | Bitcoin.com                      | Sybil        | [](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)[The bitcoin.com wallet app is under attack by /r/bitcoin. Please help to counter it.](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)                                                                                                                                   |
 | 7 April 2018      | @Bitcoin                         | Sybil        | [](https://www.reddit.com/r/btc/comments/8anmkg/bitcoin_suspended_on_twitter/)[@Bitcoin suspended on Twitter](https://www.reddit.com/r/btc/comments/8anmkg/bitcoin_suspended_on_twitter/)                                                                                                                                                                                                                          |
+
+
 ## Citation
 
 In academic work, please cite this resource as:
