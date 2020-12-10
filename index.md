@@ -26,7 +26,7 @@ I write short stories, often about technology and freedom.
 
 ### Research
 
-[Known Cyber Attacks Against Scaling Bitcoin](/)
+<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Known *Alleged* Cyber Attacks Against Scaling Bitcoin](/)
 
 ### Projects
 
