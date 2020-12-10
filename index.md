@@ -28,7 +28,7 @@ I write short stories, often about technology and freedom.
 
 <img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Known *Alleged* Cyber Attacks Against Scaling Bitcoin](/)
 
-<img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [Known *Alleged* Physical and Legal Threats Against Scaling Bitcoin](/)
+<img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [Known *Alleged* Physical and Legal Attacks and Threats Against Scaling Bitcoin](/)
 
 ### Projects
 
