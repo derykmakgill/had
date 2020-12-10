@@ -1,8 +1,6 @@
 ---
 layout: default
----
-
-# Known Alleged Cyber Attacks Against Scaling Bitcoin
+background: https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv
 
 A list of known *alleged* attacks and threats made against during the Bitcoin scaling "debates."
 
