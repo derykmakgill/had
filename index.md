@@ -26,11 +26,7 @@ I write short stories, often about technology and freedom.
 
 ### Research
 
-<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Cyber Attacks Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/attacks)
-
-<img src="https://media0.giphy.com/media/WQgFgepfhBvwkSjZq1/giphy.gif" height="14" alt=""> [Legal Attacks and Threats Against Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical)
-
-<img src="https://i.pinimg.com/originals/2e/7c/ab/2e7cabb23b1fc30408b7292c1016be24.gif" height="14" alt=""> [Forum Censorship About Scaling Bitcoin](https://derykmakgill.github.io/mkg/physical): with an appendix covering condemnations, denials and admissions.
+<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Bitcoin Scaling Database (2011-current)](/): I compiled a database of public allegations of censorship on Bitcoin forums, cyber attacks and legal threats related to attempts to scale the Bitcoin protocol by increasing the block size.
 
 ### Projects
 
