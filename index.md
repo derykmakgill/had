@@ -12,12 +12,6 @@ This site is under construction. In the meantime, you can read a few of my newes
 
 <img src="https://neustadt.fr/img/web.gif" height="14" alt=""> [Warning My Younger Self About The Future Web](/): If I had understood the Internet when I began using it so many years ago, I would have done things a lot differently.
 
-### Fiction
-
-I write short stories, often about technology and freedom.
-
-[Tax Refund](/): A Robinhood tale for the 21st century.
-
 ### Research
 
 <img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Bitcoin Scaling Database (2011-current)](/): I compiled a database of public allegations of censorship on Bitcoin forums, cyber attacks and legal threats related to attempts to scale the Bitcoin protocol by increasing the block size.
@@ -26,6 +20,3 @@ I write short stories, often about technology and freedom.
 
 <img src="https://assets.sbnation.com/assets/2285309/cypherpunk_timmay.gif" height="14" alt=""> [Timothy C. May (From Anarchy to Welfarism)](/): An in-progress book collecting the writing and thinking of cypherpunk Timothy C. May. Material comes mostly from the [archives](http://mailing-list-archive.cryptoanarchy.wiki/) of the Cypherpunk Mailing List.
 
-### Documents
-
-[Research Bounties On Documents](/): I'm paying if you can help me track down physical copies of papers I'm looking for.
