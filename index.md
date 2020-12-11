@@ -6,9 +6,10 @@ background: https://neustadt.fr/img/animspace.gif
 ![under constructio](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/construction_8.gif?itok=i0AHeyO3)
 
 
-### Essays
+This site is under construction. In the meantime, here's a selection of new things. Full archives will be added in time.
 
-This site is under construction. In the meantime, you can read a few of my newest articles. Full archives will be added in time.
+
+### Essays
 
 <img src="https://neustadt.fr/img/web.gif" height="14" alt=""> [Warning My Younger Self About The Future Web](/): If I had understood the Internet when I began using it so many years ago, I would have done things a lot differently.
 
