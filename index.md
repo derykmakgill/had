@@ -15,7 +15,7 @@ This site is under construction. In the meantime, here's a selection of new thin
 
 ### Research
 
-<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Bitcoin Scaling Database (2011-current)](/): I compiled a database of public allegations of censorship on Bitcoin forums, cyber attacks and legal threats related to attempts to scale the Bitcoin protocol by increasing the block size.
+<img src="https://media1.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" height="14" alt=""> [Bitcoin Scaling Database (2011-2020)](/): I compiled a database of public allegations of censorship on Bitcoin forums, cyber attacks and legal threats related to attempts to scale the Bitcoin protocol by increasing the block size.
 
 ### Projects
 
