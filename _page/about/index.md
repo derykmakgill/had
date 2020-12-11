@@ -7,7 +7,7 @@ permalink: about
 # About 
 
 <figure>
-<img src="/had/assets/img/makgill-censored.jpg" alt="I'm the guy in the middle...">
+<img src="/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">
  
 </figure>
 
